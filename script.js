@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
         nav.classList.toggle('active');
     });
     const typingElement = document.getElementById('typing');
-    const words = ["Full Stack Developer", "Developer", "Web Designer", "Tech Explorer", "Script Writer"];
+    const words = ["Full Stack Developer", "DevOps Engineer", "Web Designer", "Tech Explorer", "Data Scientist"];
     let wordIndex = 0;
     let letterIndex = 0;
     let currentWord = '';
